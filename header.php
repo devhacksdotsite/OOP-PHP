@@ -1,3 +1,9 @@
+<?php
+	include_once ("./lib/config.php");
+	ob_start(); 
+	$_SESSION["path"] = $_SERVER['REQUEST_URI'];
+	$wd = new WD();
+?>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
