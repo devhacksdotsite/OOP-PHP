@@ -2,6 +2,7 @@
 Example of OOP PHP code snippet. 
 
 # Database Design
+view raw: https://raw.githubusercontent.com/devhacksdotsite/OOP-PHP/master/README.md
 mysql> show tables;
 +----------------------+
 | Tables_in_wedding    |
